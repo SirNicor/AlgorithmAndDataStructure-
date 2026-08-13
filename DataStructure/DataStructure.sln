@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArray", "DynamicArray\DynamicArray.csproj", "{ADDA6158-F7DF-425F-8790-9042FBB6DA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{449285E9-D20B-4CB1-A70C-CA8D90BF9669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{F8759118-0EB3-4503-85B0-79E74A867D4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADDA6158-F7DF-425F-8790-9042FBB6DA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDA6158-F7DF-425F-8790-9042FBB6DA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDA6158-F7DF-425F-8790-9042FBB6DA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDA6158-F7DF-425F-8790-9042FBB6DA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449285E9-D20B-4CB1-A70C-CA8D90BF9669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449285E9-D20B-4CB1-A70C-CA8D90BF9669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449285E9-D20B-4CB1-A70C-CA8D90BF9669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449285E9-D20B-4CB1-A70C-CA8D90BF9669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8759118-0EB3-4503-85B0-79E74A867D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8759118-0EB3-4503-85B0-79E74A867D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8759118-0EB3-4503-85B0-79E74A867D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8759118-0EB3-4503-85B0-79E74A867D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
