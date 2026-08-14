@@ -43,5 +43,10 @@ public class Programm
         {
             Console.Write($"Element myList2, index {i} - " + myList2.GetElement(i) + ", ");
         }
+
+        foreach (int x in myList2)
+        {
+            Console.Write($"Element myList2 in foreach - " + x + ", ");
+        }
     }
 }

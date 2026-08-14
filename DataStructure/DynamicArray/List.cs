@@ -1,6 +1,8 @@
-﻿namespace DynamicArray;
+﻿using System.Collections;
 
-public class MyList<T>
+namespace DynamicArray;
+
+public class MyList<T> : IEnumerable<T>
 {
     private T[] Value { get; set; }
     private int CurrentIndex { get; set; } = 0;
@@ -97,5 +99,18 @@ public class MyList<T>
         }
         CurrentIndex++;
         Value[CurrentIndex] = value;
+    }
+
+    public IEnumerator<T> GetEnumerator()
+    {
+        foreach (var t in Value)
+        {
+            yield return t;
+        }
+    }
+
+    IEnumerator IEnumerable.GetEnumerator()
+    {
+        return ((IEnumerable<T>)this).GetEnumerator();
     }
 }
