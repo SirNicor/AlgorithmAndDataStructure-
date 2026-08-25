@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseStr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome", "ValidPalindrome\ValidPalindrome.csproj", "{B344B6C0-54AF-43CC-B0E6-5FD6629AA33A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest Missing Multiple of K", "Smallest Missing Multiple of K\Smallest Missing Multiple of K.csproj", "{2E51BCBD-9FE9-4BEB-A751-7CE411B24187}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{B344B6C0-54AF-43CC-B0E6-5FD6629AA33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B344B6C0-54AF-43CC-B0E6-5FD6629AA33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B344B6C0-54AF-43CC-B0E6-5FD6629AA33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E51BCBD-9FE9-4BEB-A751-7CE411B24187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E51BCBD-9FE9-4BEB-A751-7CE411B24187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E51BCBD-9FE9-4BEB-A751-7CE411B24187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E51BCBD-9FE9-4BEB-A751-7CE411B24187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
