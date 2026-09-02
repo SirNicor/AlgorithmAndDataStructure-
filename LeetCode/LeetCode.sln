@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome", "ValidPal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest Missing Multiple of K", "Smallest Missing Multiple of K\Smallest Missing Multiple of K.csproj", "{2E51BCBD-9FE9-4BEB-A751-7CE411B24187}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructUniformParityArrayI", "ConstructUniformParityArrayI\ConstructUniformParityArrayI.csproj", "{A659E315-131D-42C6-95A6-5BF57DAF7307}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{2E51BCBD-9FE9-4BEB-A751-7CE411B24187}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E51BCBD-9FE9-4BEB-A751-7CE411B24187}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E51BCBD-9FE9-4BEB-A751-7CE411B24187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A659E315-131D-42C6-95A6-5BF57DAF7307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A659E315-131D-42C6-95A6-5BF57DAF7307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A659E315-131D-42C6-95A6-5BF57DAF7307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A659E315-131D-42C6-95A6-5BF57DAF7307}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
