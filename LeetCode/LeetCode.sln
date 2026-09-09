@@ -1,5 +1,4 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{BE8CBFD0-891C-468E-B720-AB466E5934E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicateTwo", "ContainsDuplicateTwo\ContainsDuplicateTwo.csproj", "{E9C18750-5801-4C6D-A160-A9FA9C10174D}"
@@ -28,9 +27,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest Missing Multiple o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructUniformParityArrayI", "ConstructUniformParityArrayI\ConstructUniformParityArrayI.csproj", "{A659E315-131D-42C6-95A6-5BF57DAF7307}"
 EndProject
-<<<<<<< HEAD
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestStableIndexI", " SmallestStableIndexI\SmallestStableIndexI.csproj", "{BA4B7151-2EF6-4325-B29C-04F4AE3DE82D}"
-=======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestStableIndexII", "SmallestStableIndexII\SmallestStableIndexII.csproj", "{9D35991D-F476-412E-8BA7-32EDEDEEB622}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{98DB16F5-AC7D-45A8-97F7-F9DF33EF531A}"
@@ -44,7 +40,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFirstandLastPositionofElementinSortedArrayConsoleApp1", "FindFirstandLastPositionofElementinSortedArrayConsoleApp1\FindFirstandLastPositionofElementinSortedArrayConsoleApp1.csproj", "{49B3ADBF-EA86-4A79-8317-9A25FA061C4E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCommasinRange", "CountCommasinRange\CountCommasinRange.csproj", "{EEEBFC1B-E59E-40C6-9323-A6958520DEAC}"
->>>>>>> origin/main
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestStableIndexIe", "SmallestStableIndexIe\SmallestStableIndexIe.csproj", "{3CC0F17F-65F2-4C88-871B-9A65C2E23CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCommasinRangeII", "CountCommasinRangeII\CountCommasinRangeII.csproj", "{29A31283-B022-4C3F-B274-AF72EAC1C5B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -108,12 +107,6 @@ Global
 		{A659E315-131D-42C6-95A6-5BF57DAF7307}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A659E315-131D-42C6-95A6-5BF57DAF7307}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A659E315-131D-42C6-95A6-5BF57DAF7307}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
-		{BA4B7151-2EF6-4325-B29C-04F4AE3DE82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BA4B7151-2EF6-4325-B29C-04F4AE3DE82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BA4B7151-2EF6-4325-B29C-04F4AE3DE82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BA4B7151-2EF6-4325-B29C-04F4AE3DE82D}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
 		{9D35991D-F476-412E-8BA7-32EDEDEEB622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9D35991D-F476-412E-8BA7-32EDEDEEB622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D35991D-F476-412E-8BA7-32EDEDEEB622}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -142,6 +135,13 @@ Global
 		{EEEBFC1B-E59E-40C6-9323-A6958520DEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEEBFC1B-E59E-40C6-9323-A6958520DEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEEBFC1B-E59E-40C6-9323-A6958520DEAC}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> origin/main
+		{3CC0F17F-65F2-4C88-871B-9A65C2E23CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC0F17F-65F2-4C88-871B-9A65C2E23CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC0F17F-65F2-4C88-871B-9A65C2E23CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC0F17F-65F2-4C88-871B-9A65C2E23CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A31283-B022-4C3F-B274-AF72EAC1C5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A31283-B022-4C3F-B274-AF72EAC1C5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A31283-B022-4C3F-B274-AF72EAC1C5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A31283-B022-4C3F-B274-AF72EAC1C5B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
