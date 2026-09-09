@@ -41,11 +41,11 @@ public class Programm
             {
                 left = index + 1;
                 right = nums.Length-1;
-                int subTarget = target + 1;
+                double subTarget = target + 0.5;
                 while (left <= right)
                 {
                     int mid = (left+right)/2;
-                    if (nums[mid] >= subTarget)
+                    if (nums[mid] > subTarget)
                     {
                         right = mid - 1;
                     }
@@ -54,7 +54,7 @@ public class Programm
                         left = mid + 1;
                     }
                 }
-                rightEnd = right - 1;
+                rightEnd = right;
             }
             else
             {
@@ -72,20 +72,20 @@ public class Programm
             {
                 right = index - 1;
                 left = 0;
-                int subTarget = target - 1;
+                double subTarget = target - 0.5;
                 while (left <= right)
                 {
                     int mid = (left+right)/2;
                     if (nums[mid] > subTarget)
                     {
                         right = mid - 1;
-                    }ч
+                    }
                     else
                     {
                         left = mid + 1;
                     }
                 }
-                leftEnd = left + 1;
+                leftEnd = left;
             }
             else
             {
