@@ -36,6 +36,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "Sea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSmallestLetterGreaterThanTarget", "FindSmallestLetterGreaterThanTarget\FindSmallestLetterGreaterThanTarget.csproj", "{BD5C7806-70C9-4158-BAFD-F99BD6644FB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNegativeNumbersinaSortedMatrix", "CountNegativeNumbersinaSortedMatrix\CountNegativeNumbersinaSortedMatrix.csproj", "{F2089C7F-24FE-45EE-968C-4B511C17F0FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFirstandLastPositionofElementinSortedArrayConsoleApp1", "FindFirstandLastPositionofElementinSortedArrayConsoleApp1\FindFirstandLastPositionofElementinSortedArrayConsoleApp1.csproj", "{49B3ADBF-EA86-4A79-8317-9A25FA061C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCommasinRange", "CountCommasinRange\CountCommasinRange.csproj", "{EEEBFC1B-E59E-40C6-9323-A6958520DEAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +120,17 @@ Global
 		{BD5C7806-70C9-4158-BAFD-F99BD6644FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD5C7806-70C9-4158-BAFD-F99BD6644FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD5C7806-70C9-4158-BAFD-F99BD6644FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2089C7F-24FE-45EE-968C-4B511C17F0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2089C7F-24FE-45EE-968C-4B511C17F0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2089C7F-24FE-45EE-968C-4B511C17F0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2089C7F-24FE-45EE-968C-4B511C17F0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B3ADBF-EA86-4A79-8317-9A25FA061C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B3ADBF-EA86-4A79-8317-9A25FA061C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B3ADBF-EA86-4A79-8317-9A25FA061C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B3ADBF-EA86-4A79-8317-9A25FA061C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEEBFC1B-E59E-40C6-9323-A6958520DEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEBFC1B-E59E-40C6-9323-A6958520DEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEBFC1B-E59E-40C6-9323-A6958520DEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEBFC1B-E59E-40C6-9323-A6958520DEAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
