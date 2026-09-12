@@ -51,6 +51,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSubArray", "MaxSubArray\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique3DigitEvenNumbers", "Unique3DigitEvenNumbers\Unique3DigitEvenNumbers.csproj", "{38075014-EDEB-4227-892A-BD107453974E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPerfectSquare", "ValidPerfectSquare\ValidPerfectSquare.csproj", "{59BB1B10-A133-4D7E-81B2-CD76599CCF30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrt", "Sqrt\Sqrt.csproj", "{8517F1EB-A0C4-4AB7-8C58-E51C693B1E8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrangingCoins", "ArrangingCoins\ArrangingCoins.csproj", "{5157100F-31CF-4927-8FB8-88CEDA62C8B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{58D6015B-4803-4881-A2D6-3E0F73D06F1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -161,5 +169,21 @@ Global
 		{38075014-EDEB-4227-892A-BD107453974E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38075014-EDEB-4227-892A-BD107453974E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38075014-EDEB-4227-892A-BD107453974E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BB1B10-A133-4D7E-81B2-CD76599CCF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BB1B10-A133-4D7E-81B2-CD76599CCF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BB1B10-A133-4D7E-81B2-CD76599CCF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BB1B10-A133-4D7E-81B2-CD76599CCF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8517F1EB-A0C4-4AB7-8C58-E51C693B1E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8517F1EB-A0C4-4AB7-8C58-E51C693B1E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8517F1EB-A0C4-4AB7-8C58-E51C693B1E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8517F1EB-A0C4-4AB7-8C58-E51C693B1E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5157100F-31CF-4927-8FB8-88CEDA62C8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5157100F-31CF-4927-8FB8-88CEDA62C8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5157100F-31CF-4927-8FB8-88CEDA62C8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5157100F-31CF-4927-8FB8-88CEDA62C8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D6015B-4803-4881-A2D6-3E0F73D06F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D6015B-4803-4881-A2D6-3E0F73D06F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D6015B-4803-4881-A2D6-3E0F73D06F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D6015B-4803-4881-A2D6-3E0F73D06F1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
